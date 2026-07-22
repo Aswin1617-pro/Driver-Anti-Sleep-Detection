@@ -46,7 +46,7 @@ This shows recruiters that the fundamentals of electronics (not just coding a bo
 
 ## ⚙️ Working Principle
 
-![Working Principle](Images/Working_Principle.jpg)
+![Working Principle](Images/Working_Principle.png)
 
 1. A sensing mechanism feeds a signal into the 555 Timer stage.
 2. The 555 Timer is configured to monitor signal timing/duration — if the input pattern matches drowsy behavior, it triggers its output.
