@@ -56,11 +56,11 @@ This shows recruiters that the fundamentals of electronics (not just coding a bo
 
 ## 🔄 Flowchart
 
-![Flowchart](Images/Flowchart.jpg)
+![Flowchart](Images/Flowchart.png)
 
 ## 📈 Predicted Output
 
-![Predicted Output](Images/Predicted_Output.jpg)
+![Predicted Output](Images/Predicted_Output.png)
 
 ## ✅ Result
 
