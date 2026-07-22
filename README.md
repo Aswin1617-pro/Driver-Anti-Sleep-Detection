@@ -94,19 +94,18 @@ The circuit was built and tested on hardware — the drowsiness-detection logic 
 
 | # | Component | Quantity | Approx. Cost (₹) |
 |---|---|---|---|
-| 1 | 555 Timer IC | 1 | — |
-| 2 | Capacitors (assorted) | 3–4 | — |
-| 3 | Resistors (assorted) | 4–5 | — |
-| 4 | Diodes | 2 | — |
-| 5 | Transistors (e.g. BC547) | 1–2 | — |
-| 6 | LEDs | 2 | — |
-| 7 | Buzzer | 1 | — |
-| 8 | Breadboard / PCB | 1 | — |
-| 9 | Connecting Wires | — | — |
-| 10 | 9V Battery + Connector | 1 | — |
-| | **Total** | | **₹ —** |
+| 1 | 555 Timer IC | 1 | 10 |
+| 2 | Capacitors (assorted) | 3–4 | 20 |
+| 3 | Resistors (assorted) | 4–5 | 10 |
+| 4 | Diodes | 2 | 10 |
+| 5 | Transistors (BC547) | 1–2 | 10 |
+| 6 | LEDs | 2 | 5 |
+| 7 | Buzzer | 1 | 5 |
+| 8 | Breadboard / PCB | 1 | 55 |
+| 9 | Connecting Wires | — | 30 |
+| 10 | 9V Battery + Connector | 1 | 20 |
+| | **Total** | | **₹ 180 (approx)** |
 
-> *Fill in your actual purchase prices — recruiters like seeing that a project was built on a real, low budget.*
 
 ## 🛠️ Tools Used
 
